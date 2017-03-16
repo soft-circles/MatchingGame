@@ -1,7 +1,7 @@
 Tile[] tiles; // A 2D array of tile objects //<>//
 TileBoard tileBoard; // Tileboard obj
-int rows = 2; // User-specified # of rows
-int columns = 2; // User-specified # of columns
+int rows = 4; // User-specified # of rows
+int columns = 4; // User-specified # of columns
 int boardSize;
 int index;
 color[] tileColors;
